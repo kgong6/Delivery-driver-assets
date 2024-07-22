@@ -83,9 +83,12 @@ Final few straights of varying lengths finished, and also a roundabout intersect
 
 ![image](https://github.com/user-attachments/assets/1ad69e36-c218-497a-a6df-026b6f9e97f2)
 
+![image](https://github.com/user-attachments/assets/21a80743-f217-4044-8eab-a3b1fdbc7fcf)
+
+
 Also the widths of the previous roads were off by a few pixels, so I prevented more mistakes in the future that by going back to all the roads and editing a few pixels.
 
-## 13th hour - Bridge and my first tileset.
+## 13th hour - Bridge finished and my first tileset.
 
 ![image](https://github.com/user-attachments/assets/710ad58b-d69d-42c1-85ed-9a8954b5310b) - Finished! The wood grain on the planks was time consuming but look convincing if they aren't focused on.
 
